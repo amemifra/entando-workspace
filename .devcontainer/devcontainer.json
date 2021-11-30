@@ -32,7 +32,7 @@
 			"helm": "latest",
 			"minikube": "latest"
 		},
-		"java": "16",
+		"java": "11",
 		"maven": "latest",
 		"node": {
 			"version": "latest",
